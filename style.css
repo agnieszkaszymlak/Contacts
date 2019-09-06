@@ -1,0 +1,19 @@
+.contactItem {
+    margin-top: 30px;
+}
+
+.contactImage {
+    width: 20%;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+}
+
+.contactLabel {
+    font-weight: bold;
+    margin: 12px 0;
+}
+
+.contactEmail {
+    color: #34b4eb;
+}
